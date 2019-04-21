@@ -3,7 +3,7 @@ Needed a bunch of outfit images as seed data for a separate project. Uses [puppe
 
 ### How to run
 ```sh
-$ cd grails-fit-scraper
+$ cd grail-fits-scraper
 $ npm install
 $ npm run scrape -- <range> 
 # ex: 100-120, defaults to 130-131
