@@ -12,16 +12,16 @@ $ npm run scrape -- <range>
 ### Generates `fits.json` in src/
 ```json
 {
-  data: [
+  "data": [
     { 
-      title: 'user1', 
-      src: 'srcToImg1'
+      "title": "user1", 
+      "src": "srcToImg1"
     },
     { 
-      title: 'user2', 
-      src: 'srcToImg2'
+      "title": "user2", 
+      "src": "srcToImg2"
     }
   ],
-  error: ''
+  "error": ""
 }
 ```
